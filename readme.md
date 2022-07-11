@@ -5,7 +5,9 @@ Created for myself for better understanding how Ruby works
 How to start:
 
 1 Copy to pc
+
 2 Go to installed progect folder 
+
 3 Type in command prompt:
     bundle install
 

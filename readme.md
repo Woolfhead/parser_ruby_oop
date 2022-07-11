@@ -9,6 +9,7 @@ How to start:
 2 Go to installed progect folder 
 
 3 Type in command prompt:
+
     bundle install
 
     ruby parse_oop.rb

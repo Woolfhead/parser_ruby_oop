@@ -65,11 +65,3 @@ p = Parser.new()
 puts p.parse(url)
 
 
-
-
-# URL: URL +
-  # F_Name: F_Name +
-  # L_Name: L_Name +
-  # Country: Country +
-  # N_Lang: N_Lang + 
-  # T_Lang: T_Lang +
